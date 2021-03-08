@@ -1,0 +1,199 @@
+body {
+    background-color: #efef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+.homePage {
+    text-align: center;
+    font-size: 24px;
+}
+
+.header {
+    color: black;
+    text-decoration: none;
+}
+
+
+.headercontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tablecontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.flex-1 {
+    font-size: 14px;
+}
+
+.flex-2 {
+    font-size: 14px;
+}
+
+.flex-3 {
+    flex-basis: 14%;
+}
+
+.flex-3 {
+    font-size: 14px;
+}
+
+.flex-4 {
+    flex-basis: 10%;
+}
+
+.flex-4 {
+    font-size: 14px;
+}
+
+.dropbtn {
+    background-color: #efef;
+    color: #434348;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.mydropdown {
+    visibility: hidden;
+    height: 0;
+    opacity: 0;
+    transition: all 0.75s ease-in-out;
+}
+
+.info {
+    color: #434348;
+    text-decoration: none;
+}
+
+.payment {
+    color: #434348;
+    text-decoration: none;
+}
+
+.contact {
+    color: #434348;
+    text-decoration: none;
+}
+
+
+.suggestions {
+    color: #434348;
+    text-decoration: none;
+}
+
+.btncontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.imgrow1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.imgrow2 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.imgrow3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.txt {
+    font-size: 13px;
+}
+
+.price_old {
+    font-size: 13px;
+}
+
+.aligntxt1 {
+    padding-left: 40px;
+}
+
+.aligntxt2 {
+    padding-left: 57px;
+}
+
+.aligntxt3 {
+    padding-left: 57px;
+}
+
+.aligntxt4 {
+    padding-left: 57px;
+}
+
+.aligntxt5 {
+    padding-left: 5px;
+}
+
+.aligntxt6 {
+    padding-left: 57px;
+}
+
+.aligntxt7 {
+    padding-left: 40px;
+}
+
+.imgrow2el2 {
+    padding-right: 4%;
+    padding-left: 10%;
+}
+
+.imgrow2el3 {
+    width: 15%;
+}
+
+.imgrow3el3 {
+    padding-right: 2%;
+}
+
+.imgrow3el2 {
+    padding-right: 3%;
+}
+
+.imgrow3el1 {
+    padding-right: 3%;
+}
+
+.imgchange {
+    width: 25%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.imgtxt {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 17px;
+}
+
+.txtimg {
+    align-self: center;
+    padding-left: 2%;
+}

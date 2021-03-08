@@ -1,0 +1,149 @@
+body {
+    background-color: #efef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.homePage {
+    text-align: center;
+    font-size: 24px;
+}
+
+.header {
+    color: black;
+    text-decoration: none;
+}
+
+.headercontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tablecontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.headtxt {
+    padding-left: 7.5%;
+}
+
+.flex-1 {
+    font-size: 14px;
+}
+
+.flex-2 {
+    font-size: 14px;
+}
+
+.flex-3 {
+    flex-basis: 14%;
+    font-size: 14px;
+}
+
+.flex-4 {
+    flex-basis: 10%;
+    font-size: 14px;
+}
+
+
+.dropbtn {
+    background-color: #efef;
+    color: #434348;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.mydropdown {
+    visibility: hidden;
+    height: 0;
+    opacity: 0;
+    transition: all 0.75s ease-in-out;
+}
+
+.info {
+    color: #434348;
+    text-decoration: none;
+}
+
+.payment {
+    color: #434348;
+    text-decoration: none;
+}
+
+.contact {
+    color: #434348;
+    text-decoration: none;
+}
+
+.btncontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.suggestions {
+    color: #434348;
+    text-decoration: none;
+}
+
+.txt {
+    font-size: 13px;
+}
+
+.imgrow1 {
+    display: flex;
+    padding-left: 7%;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: baseline;
+    */
+}
+
+.aligntxt1 {
+    padding-left: 40px;
+}
+
+.aligntxt2 {
+    padding-left: 57px;
+}
+
+.aligntxt3 {
+    padding-left: 57px;
+}
+
+.imgcontainer {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.txtcontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.txtel1 {
+    text-align: justify;
+    font-size: 18px;
+    padding-right: 13%;
+    padding-top: 5%;
+}
+
+.txtel2 {
+    text-align: justify;
+    font-size: 18px;
+    padding-right: 13%;
+    padding-top: 23%;
+}
+
+.txtel3 {
+    text-align: justify;
+    font-size: 18px;
+    padding-right: 13%;
+    padding-top: 33%;
+}
