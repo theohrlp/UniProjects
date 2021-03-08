@@ -1,0 +1,15 @@
+C:\Users\ted\source\repos\AddressBookAgain\bin\Debug\AddressBookAgain.exe.config
+C:\Users\ted\source\repos\AddressBookAgain\bin\Debug\AddressBookAgain.exe
+C:\Users\ted\source\repos\AddressBookAgain\bin\Debug\AddressBookAgain.pdb
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.csprojAssemblyReference.cache
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.Form1.resources
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.Properties.Resources.resources
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.csproj.GenerateResource.cache
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.exe
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.pdb
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.Form2.resources
+C:\Users\ted\source\repos\AddressBookAgain\bin\Debug\Interop.WMPLib.dll
+C:\Users\ted\source\repos\AddressBookAgain\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\Interop.WMPLib.dll
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ted\source\repos\AddressBookAgain\obj\Debug\AddressBookAgain.csproj.ResolveComReference.cache
